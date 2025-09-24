@@ -1,3 +1,4 @@
+# Editado por by franana el 23/09/2025
 # ============================== Resplandor.ps1 ==============================
 # 1) Eventos (CSV/HTML/XML)  2) Procesos+Red (CSV/HTML)  3) AbuseIPDB (CSV/HTML)  4) RAM opcional (WinPmem)
 # Probado en Windows PowerShell 5.1. ASCII-safe.
@@ -531,4 +532,5 @@ while ($true) {
         '7' { break }
         default { Write-Host '[INFO] Opcion invalida'; Start-Sleep 1 }
     }
+
 }
