@@ -31,4 +31,4 @@ Al desarrollar estos ejercicios aprendí:
 
 ## Autor
 
-Este repositorio fue desarrollado por **FrannRocha** como parte de sus estudios en ciberseguridad y automatización con PowerShell. Espero que estos ejercicios sean de utilidad para otros estudiantes y profesionales interesados en el tema.
+Este repositorio fue desarrollado por **FrannRocha** como parte de sus estudios en ciberseguridad y automatización con PowerShell.
